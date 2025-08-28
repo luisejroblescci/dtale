@@ -1829,3 +1829,5 @@ Contributions welcome!
 ## License
 
 D-Tale is licensed under the GNU LGPL v2.1.  A copy of which is included in [LICENSE](LICENSE)
+
+<!-- Updated on 2025-08-28 12:40:33 by automated script -->
